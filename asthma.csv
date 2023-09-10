@@ -1,0 +1,42 @@
+Medicine name,Brand,Drug type,Composition,Purpose,Duration
+montelukast systemic,Singulair,Leukotriene,C24H33Cl2NO5�C20H16O2,Bronchospasm Prophylaxis,short term
+prednisone systemic,Rayos,Glucocorticoids,C35H35ClNNaO3S,Exercise-Induced Bronchoconstriction,long term
+vilanterol systemic,Trellegy Ellipta,Bronchodilator combinations,C27H29F3O6S,Acute Asthma,long term
+benralizumab systemic,Fasenra,Interleukin inhibitors,Benralizumab,Intrinsic Asthma,short term
+triamcinolone systemic,Kenalog-40,Glucocorticoids,"9-Fluoro-11?,16?,17,21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal",Exercise-Induced Bronchoconstriction,short term
+benralizumab systemic,Fasenra,Interleukin inhibitors,IgG1�kappa immunoglobulin,Childhood Asthma,short term
+mepolizumab systemic,Nucala,Interleukin inhibitors,mepolizumab,Cough-variant Asthma,long term
+tezepelumab systemic,Tezspire,Selective immunosuppresant,"IRD of 0.18 (95% CI: -0.51, 0.75)",Brittle Asthma,short term
+mometasone systemic,Dulera,Bronchodilator combinations,"95% CI: 1.25, 15.34",Brittle Asthma,short term
+ipratropium systemic,Atrovent,Anticolinergic bronchodilaor,0.025 % w/v ipratropium bromide,Severe Asthma,long term
+vilanterol systemic,Brio Ellipta,Bronchodilator combinations,fluticasone furoate 100 mcg�,Brittle Asthma,short term
+ipratropium systemic,Atrovent,Anticolinergic bronchodilaor,"8-methyl-8-(1- methylethyl)-, bromide",Steroid-resistant Asthma,very short term
+methylprednisolone systemic,Medrol,Glucocorticoids,"pregna-1,4-diene-3,20-dione",Allergic Asthma,long term
+dexamethasone systemic,Dxevo,Glucocorticoids,C�22H�29FO�5,Aspirin-Exacerbated Respiratory Disease,long term
+levalbuterol systemic,Xopenex,Adrenergic bronchodilator,C13H21NO3�HCl,Childhood Asthma,short term
+ciclesonide systemic,Alvesco,Inhailed corticosteroid,C32H44O7,Obesity-related Asthma,medium term
+ipratropium systemic,Ipratropium,Anticolinergic bronchodilaor,C20H30NO3+,Allergic Asthma,long term
+triamcinolone systemic,Kenalog-40,Glucocorticoids,"Hexacitonide USP Fluoro -1,1 dimethyl",Late-onset Asthma,long term
+dexamethasone systemic,Dexamethasone,Glucocorticoids,C22H29FO5,Steroid-resistant Asthma,short term
+methylprednisolone systemic,Zerodol,Glucocorticoids,"pregna-1,4-diene-3,20-dione",Allergic Asthma,short term
+methylprednisolone systemic,Depo-medrol,Glucocorticoids,"pregna-1,4-diene-3,20-dione",Allergic Asthma,long term
+levalbuterol systemic,Solubutame,Adrenergic bronchodilator,C13H21NO3�HCl.,Allergic Asthma,short term
+caffeine systemic,Caffience,CNS-stimulus,Hepatic cytochrome P450 1A2 (CYP1A2),Intrinsic Asthma,short term
+ciclesonide systemic,Ciclesonide,Inhailed corticosteroid,C21-desisobutyryl-ciclesonide,Obesity-related Asthma,long term
+dexamethasone systemic,De-sone L,Glucocorticoids,C�22H�29FO�5,Aspirin-Exacerbated Respiratory Disease,short term
+guaifenesin systemic,Difil-G Forte,Antiasthmatic combinations,hydroxypropyl methylcellulose,Acute Asthma,long term
+ipratropium systemic,Aerosol,Anticolinergic bronchodilaor,Ipratropium bromide,Late-onset Asthma,short term
+reslizumab systemic,Cinqair,Interleukin inhibitors,reslizumab,Exercise-Induced Bronchoconstriction,short term
+mepolizumab systemic,Futyrl,Interleukin inhibitors,IgG1�kappa immunoglobulin,Childhood Asthma,short term
+budesonide systemic,Airsupa,Antiasthmatic combinations,C25H34O6�,Cough-variant Asthma,long term
+guaifenesin systemic,Mucinex,Expectorant,Guaifenesin 600 mg,Acute Bronchitis,short term
+azithromycin systemic,Azithromicin,Marcolides,C38H72N2O12,Chronic Bronchitis,long term
+doxycycline systemic,Doxy 100,Tetracyclines,C22H24N2O8,Chronic Bronchitis,long term
+clavulanate systemic,Augmentin,Beta-lactamase inhibitor,C8H8KNO5,Acute Bronchitis,short term
+levofloxacin systemic,Levaquin,Fluroquinolines,C18H20FN3O4�� � H2O�,Acute Bronchitis,long term
+ciprofloxacin systemic,Cipro ,Quinolone,C17H18FN3O3,Chronic Bronchitis,short term
+amoxicillin systemic,Amoxin,Aminopenicilin,C16H19N3O5S�3H2O,Chronic Bronchitis,long term
+trimethoprim systemic,Bactrim,Sulphonamide,C14H18N4O3,Acute Bronchitis,short term
+cefuroxime systemic,Ceftin,Cephalosporin,C20H22N4O10S,Acute Bronchitis,long term
+ceftriaxone systemic,Ceftriaxone,Cephalosporin,C18H16N8Na2O7S3�3.5H2O,Chronic Bronchitis,long term
+doxycycline systemic,Vibramycin,Antimalarians,C22H24N2O8?H2O,Acute Bronchitis,short term
