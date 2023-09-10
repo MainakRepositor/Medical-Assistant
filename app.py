@@ -35,7 +35,6 @@ st.write('**Medication Information**')
 st.write("Please consult a healthcare professional for detailed information on asthma treatment and medication. The 'Time to Cure' column provides general information and may vary based on individual cases.")
 
 
-
 #if st.sidebar.checkbox('Show data'):
     st.dataframe(df)
 
