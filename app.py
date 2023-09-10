@@ -36,13 +36,13 @@ st.write("Please consult a healthcare professional for detailed information on a
 
 
 
-if st.sidebar.checkbox('Show data'):
+#if st.sidebar.checkbox('Show data'):
     st.dataframe(df)
 
 df2 = pd.read_csv('Drug_clean.csv')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-if st.sidebar.checkbox("Show Graphs"):
+#if st.sidebar.checkbox("Show Graphs"):
 
     st.subheader(f"Types of available medicines")
     plt.figure(figsize=(8, 6))
